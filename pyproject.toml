@@ -1,0 +1,13 @@
+[project]
+name = "flowclone"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=2.5.1",
+    "pynput>=1.7",
+    "pywhispercpp>=1.3",
+    "rumps>=0.4",
+    "sounddevice>=0.4",
+]
